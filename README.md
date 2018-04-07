@@ -2,7 +2,7 @@
 
 October 2017
 
-Game created during JIN's Unijam (week-end long game jam).
+Game created during JIN's Unijam (week-end long game jam - developed the game from Friday 10pm to Sunday 2pm).
 Theme: "If you're not satisfied with your life, change it. If you can't change it, change yourself."
 
 ## Video
