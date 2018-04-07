@@ -13,9 +13,10 @@ In order to recover her body, Cara, a lost soul, wanders along a world full of o
 
 ## The Game
 Chromanima is a puzzle-platformer. The player, in order to progress in a level, must use the abilities of the little souls strategically, and reincarnate at the right times. 
-• Each ability can overcome 2 obstacles 
-• Each obstacle can be defeated with 2 abilities
-• When Cara touches purple matter, she reappears at the last "check point" with all the abilities
+- Each ability can overcome 2 obstacles 
+- Each obstacle can be defeated with 2 abilities
+- When Cara touches purple matter, she reappears at the last "check point" with all the abilities
+
 => If the player uses the abilities in the wrong order/the wrong way or doesn't "recharge" them when he needs to, he will get stuck and have to start all over again.
 
 ## The Team
